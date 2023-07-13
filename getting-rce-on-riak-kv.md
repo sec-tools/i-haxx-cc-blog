@@ -1,3 +1,5 @@
+Original post date: 2020-12-21
+
 ## What is Riak
 
 [Riak](https://riak.com/products/riak-kv/index.html) is a NoSQL key-value database that is built to maximize data availability and performance, especially in big data environments. It lives by the principles described in Amazon's Dynamo [paper](https://www.allthingsdistributed.com/files/amazon-dynamo-sosp2007.pdf) which later produced DynamoDB. It was released back in 2009 around the same time as Redis, but it was written in Erlang and really focuses on [high availablity](https://docs.riak.com/riak/kv/latest/learn/why-riak-kv/index.html).
