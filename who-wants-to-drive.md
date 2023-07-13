@@ -1,3 +1,5 @@
+Original post date: 2021-01-25
+
 # Who wants to drive?
 
 Driver assistance and self-driving car systems are in the beta stages as we speak. In the next decade, we'll more than likely see robo-taxis on the rise, nobody in the driver seat of 18-wheelers and maybe you'll even buy a Tesla for only a few thousands bucks. The catch for acquiring such a subsidized car, similar to the deals to get an iPhone so cheap, is that you agree that it can go uber people around instead of sitting "under-utilized" in your driveway or a parking garage for most of the day.
