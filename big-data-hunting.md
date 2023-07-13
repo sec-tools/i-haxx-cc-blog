@@ -1,3 +1,5 @@
+Original post date: 2020-12-28
+
 ## Landscape
 
 Evaluating "how security works" for various software that makes massive data consumption, processing and analytics actually work was a fruitful exercise. Many were not designed in a way that would make them straightforward to enable security features during deployment, nor was the initial configuration easy to defend. We all just want stuff to work out of the box without having to worry about it, but few projects optimize towards secure defaults.
